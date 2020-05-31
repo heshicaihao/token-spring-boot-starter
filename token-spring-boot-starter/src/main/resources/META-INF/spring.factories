@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+config.TokenAutoConfiguration
+
+#配置自动装配的全路径
