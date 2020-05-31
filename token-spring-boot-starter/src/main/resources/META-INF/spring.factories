@@ -1,4 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-config.TokenAutoConfiguration
+com.heshicaihao.starter.token.config.TokenAutoConfiguration
 
 #配置自动装配的全路径
